@@ -1,0 +1,100 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2023-08-03T01:16:34.919509+00:00",
+  "repo": "trustoverip/tswg-cesr-proof-specification",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [
+    {
+      "number": 2,
+      "id": "I_kwDOKAiW785tFH98",
+      "title": "Fix references to WoT specs and update to ToIP",
+      "url": "https://github.com/trustoverip/tswg-cesr-proof-specification/issues/2",
+      "state": "OPEN",
+      "author": "m00sey",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2023-07-31T21:31:25Z",
+      "updatedAt": "2023-07-31T21:31:25Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOKAiW785W1Fq0",
+      "title": "adds migration note",
+      "url": "https://github.com/trustoverip/tswg-cesr-proof-specification/pull/1",
+      "state": "MERGED",
+      "author": "m00sey",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Add a reference to the previous WebOfTrust repository.",
+      "createdAt": "2023-07-31T17:55:22Z",
+      "updatedAt": "2023-08-01T20:01:49Z",
+      "baseRepository": "trustoverip/tswg-cesr-proof-specification",
+      "baseRefName": "main",
+      "baseRefOid": "e0e78d886f06df21b4b5c1f15f5773b5782203bd",
+      "headRepository": "m00sey/tswg-cesr-proof-specification",
+      "headRefName": "main",
+      "headRefOid": "83c9b8e3a2ffde86004721feb83b4b0caac9bb53",
+      "closedAt": "2023-08-01T20:01:49Z",
+      "mergedAt": "2023-08-01T20:01:49Z",
+      "mergedBy": "m00sey",
+      "mergeCommit": {
+        "oid": "5263b0636f6ea74b1b562812481d244875aabedc"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
